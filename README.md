@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there, I'm Felipe 👋
+- 🎓 I'm currently pursuing an Information Systems bachelor's degree at USP
+- ⚙️ My main goal currently is to become a professional low level systems developer
+- 📜 I have a few years of backend development study
+- 🐧 I'm a HUGE Linux enthusiast
+- 🔥 Other areas of interest: cybersecurity, malware analysis and graphics programming
 
-<!--
-**fcolona/fcolona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcolona&theme=gruvbox&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcolona&layout=compact&langs_count=5&card_width=320&theme=gruvbox" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/felipe-ferreira-colona-6b97982b6/)
