@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fcolona&theme=gruvbox&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcolona&layout=compact&langs_count=5&card_width=320&theme=gruvbox" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcolona&langs_count=5&card_width=320&theme=gruvbox" />
 </a>
 
 ## Contact me
