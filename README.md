@@ -1,6 +1,6 @@
 ## Hey there, I'm Felipe 👋
 - 🎓 I'm currently pursuing an Information Systems bachelor's degree at USP
-- ⚙️ My main goal currently is to become a professional low level systems developer
+- ⚙️ My main goal is to become a professional low level systems developer
 - 📜 I have a few years of backend development study
 - 🐧 I'm a HUGE Linux enthusiast
 - 🔥 Other areas of interest: cybersecurity, malware analysis and graphics programming
