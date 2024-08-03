@@ -3,7 +3,7 @@
 - ⚙️ My main goal is to become a professional low level systems developer
 - 📜 I have a few years of backend development study
 - 🐧 I'm a HUGE Linux enthusiast
-- 🔥 Other areas of interest: cybersecurity, malware analysis and graphics programming
+- 🔥 Other areas of interest: cybersecurity, malware analysis and computer graphics
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
