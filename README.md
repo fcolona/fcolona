@@ -1,5 +1,5 @@
 ## Hey there, I'm Felipe 👋
-- 🎓 I'm currently pursuing an Information Systems bachelor's degree at USP
+- 🎓 Undergraduate student in Information Systems at USP
 - ⚙️ I aim to become a professional developer of low-level/performance-critical systems
 - 📜 I have a few years of backend development study
 - 🐧 I'm a HUGE Linux enthusiast
@@ -14,4 +14,4 @@
 </a>
 
 ## Contact me
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/felipe-ferreira-colona-6b97982b6/)
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/felipe-colona/)
