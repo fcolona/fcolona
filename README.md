@@ -1,5 +1,5 @@
 ## Hey there, I'm Felipe 👋
-- 🎓 Undergraduate student in Information Systems at USP
+- 🎓 I'm an undergraduate student in Information Systems at USP
 - ⚙️ I aim to become a professional developer of low-level/performance-critical systems
 - 📜 I have a few years of backend development study
 - 🐧 I'm a HUGE Linux enthusiast
